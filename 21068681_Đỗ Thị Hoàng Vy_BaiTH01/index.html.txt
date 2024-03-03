@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài tập kiểm tra</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+    <h3 class="bai"> <strong>Bài 1</strong> <h3>
+    <div class="bai1">
+        <div class="container1">
+            <img src="https://cdn.glitch.global/8ec1ab4a-4df3-484a-a356-9b386288265e/Logo-VTEC.webp?v=1709307090346" width="120" height="90">
+            <h1 class="title1">Công Ty Cổ Phần May <span class="VT"> <b>Việt Tiến</b> </span> </h1>
+              <div class="subtitle1">Chuyên cung cấp trang phục công sở Nam, Nữ</div>
+            <div class="sanpham">
+                <div class="sp">SẢN PHẨM NAM 👕</div>
+                <div class="sp">SẢN PHẨM NỮ 👚</div>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="bai"> <strong>Bài 2</strong> </h3>
+    <div>
+        <h4 class="populartags">
+           <b>Các tag phổ biến</b>
+        </h4>
+        <div class="wrapper">
+            <div class="tag">html</div>
+            <div class="tag">css</div>
+            <div class="tag">javas cript</div>
+            <div class="tag">jquery</div>
+            <div class="tag">web design</div>
+            <div class="tag">django</div>
+            <div class="tag">python</div>
+            <div class="tag">machine learning</div>
+            <div class="tag">data science</div>        
+        </div>
+    </div>
+
+    <h3 class="bai"> <strong>Bài 3</strong> </h3>
+    <div class="bai3">
+        <h1> <b>Hãy cùng khám phá những lợi ích sức khỏe tuyệt vời của trà gừng.</b> </h1>
+      <img  src="https://cdn.glitch.global/8ec1ab4a-4df3-484a-a356-9b386288265e/tragung.jpeg?v=1709313750208" width="660" height="400">
+        <h4> <b>Uống trà gừng hàng ngày là cách tuyệt vời để bạn chăm sóc và bảo vệ sức khỏi để khỏi các bệnh tật.</b> </h4>
+        <p>Trà gừng cay và nóng, vì vậy mà nó là loại thức uống tuyệt vời trong ngày lạnh thay cho cà-phê.
+        Tuy nhiên, trà gừng còn hơn cả là một loại thức uống bình thường vì nó có rất nhiều tác dụng với sức khỏe. Hãy cùng khám phá những lợi ích sức khỏe tuyệt vời của trà gừng</p>
+        <ul class="list">
+            <li>Đẩy lùi cảm giác buồn nôn.</li>
+            <li>Hỗ trợ hệ thống tiêu hóa.</li>
+            <li>Chiến đấu với tình trạng chuột rút.</li>
+            <li>Chữa trị bệnh cảm lạnh thông thường.</li>
+            <li>Điều trị chứng đâu nửa đầu.</li>            
+            <li>Chữa bệnh hôi miệng.</li>
+            <li>Giảm đau và Chống viêm nhiễm.</li>
+        </ul>
+        <button class="button3">Đọc thêm...</button>
+    </div>
+
+
+    <h3 class="bai"> <strong>Bài 4</strong> </h3>
+    <div class="bai4">
+        <div class="container4">
+            <img class="icon4" src="https://cdn.glitch.global/8ec1ab4a-4df3-484a-a356-9b386288265e/icon%20email.png?v=1709316171410" width="110" height="90">
+            <h1 class="headertext4"><b>Gửi lời mời tham gia sự kiện</b></h1>
+            <div>Hãy nhập e-mail người mà bạn muốn gửi lời mời.</div>
+            <form action="" class="form4">
+                <input type="email" name="email" id="email" placeholder="Enter Email" class="email-field"><br>
+                <input type="submit" value="GỬI LỜI MỜI" class="button4">
+            </form>
+        </div>
+    </div>
+
+      
+    <h3 class="bai"> <strong>Bài 5</strong> </h3>
+    <div class="container5">
+        <div class="background5">
+            <div class="wraptext5">
+                <div class="text5-1">CƠ HỘI CHỈ ĐẾN VỚI BẠN MỘT LẦN DUY NHẤT</div>
+                <div class="text5-2">Bạn sẽ nhân ưu đãi TỐT NHẤT nếu là thành viên của TRUNG NGUYÊN Coffee</div>
+                <button class="button5">ĐĂNG KÝ THAM GIA</button>
+            </div>
+        </div>
+    </div>
+      
+      
+        <h3 class="bai"> <strong>Bài 6</strong></h3>
+    <div class="container6">
+        <div class="background6">
+            <div class="wraptext6">
+                <div class="block">
+                    <i class="glyphicon glyphicon-education green"></i>
+                    <div class="number">20000</div>
+                    <div class="text6">Sinh viên theo học</div>
+                </div>
+                <div class="block">
+                    <i class="glyphicon glyphicon-briefcase pink "></i>
+                    <div class="number">92%</div>
+                    <div class="text6">Sinh viên làm đúng việc</div>
+                </div>
+                <div class="block">
+                    <i class="	glyphicon glyphicon-duplicate red "></i>
+                    <div class="number">586</div>
+                    <div class="text6">Bài báo khoa học</div>
+                </div>
+                <div class="block">
+                    <i class="glyphicon glyphicon-globe blue"></i>
+                    <div class="number">18</div>
+                    <div class="text6">Giải thưởng quốc tế</div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+      
+</body>
+
+</html>
